@@ -1,0 +1,70 @@
+#myVideo {
+    position: fixed;
+    right: 0;
+    bottom: 0;
+    min-width: 100%; 
+    min-height: 100%;
+    background-position: center;
+    background-size: cover;
+    margin: 0 auto;
+  }
+  
+  
+  .content {
+    position: fixed;
+    top: 115px;
+    background: rgba(0, 0, 0, 0.712);
+    color: #f1f1f1;
+    width: 100%;
+    margin: 0 auto;
+    margin-left: -20px;
+    padding: 25px;
+
+  }
+  
+  #content-text {
+    color: #f1f1f1;
+    width: 100%;
+    margin: 0 auto;
+    margin-left: -20px;
+    padding-top: 10px;
+  }
+
+  #content-score {
+    color: #f1f1f1;
+    width: 100%;
+    margin: 0 auto;
+    margin-left: -20px;
+    margin: 0 auto;
+    margin-bottom: 20px;
+  }
+
+  h1 {
+      font-family: 'Bungee Shade', cursive;
+      font-size: 50px;
+      text-align: center;
+      color: white;
+      text-transform: uppercase;
+      margin: 0 auto;
+      margin-top: -15px;
+  }
+
+  h2 {
+    font-family: 'Revalia', cursive;
+    font-size: 35px;
+    text-align: center;
+    font-weight: bold;
+    color: white;
+    margin: 0 auto;
+    margin-bottom: 25px;
+    margin-top: -15px;
+}
+
+h3 {
+    font-family: 'Revalia', cursive;
+    font-size: 28px;
+    text-align: center;
+    color: white;
+    line-height: 45px;
+    margin: 0 auto;
+}
